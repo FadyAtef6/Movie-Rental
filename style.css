@@ -1,0 +1,283 @@
+.bg1
+ {
+		
+	background-image: url("pictures/home.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+#lole{
+	background-color:white;
+	color:black;
+}
+img
+{
+	border-radius:30px;
+}
+.I1
+{
+	background-image: url("pictures/captainmarverl.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.I2
+{
+	background-image: url("pictures/antman.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.I3
+{
+	background-image: url("pictures/birdbox.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.I4
+{
+	background-image: url("pictures/robinhood.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.I5
+{
+	background-image: url("pictures/glass.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.I6
+{
+	background-image: url("pictures/aquaman.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.I7
+{
+	background-image: url("pictures/robo1.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.I8
+{
+	background-image: url("pictures/end1.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.I9
+{
+	background-image: url("pictures/host.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.I10
+{
+	background-image: url("pictures/shoot1.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.I11
+{
+	background-image: url("pictures/frank1.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.I12
+{
+	background-image: url("pictures/ride1.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.ok8
+{
+	border: 2px solid white;
+	margin:30px 0px 30px 0px;
+	
+}
+th
+{
+	color:#ccff33;
+	text-transform:uppercase;
+	font-style:em;
+	font-size:30px;
+}
+
+a 
+{
+	text-decoration:none;
+	color:Beige ;
+	font-style:normal;
+	font-size:15px;
+	text-transform:uppercase;
+	font-style:em;
+	
+}
+.four
+{
+	text-align:center;
+	font-size:50px;
+	font-style:italic;
+}
+h1
+{
+	text-align:center;
+	font-style:italic;
+	font-size:50px;
+	
+	
+}
+h1 , p
+{	
+	
+	color:Beige;
+}
+.movie2
+{
+	font-size:30px;
+	text-transform:uppercase;
+	text-decoration:underline;
+	
+}
+
+hr
+{
+	border:2px solid Olive ;
+	
+	
+	
+}
+.nine
+{
+	color:white;
+	font-size:15px;
+	font-style:normal;
+	
+}
+.ok10
+{
+	float:left;
+	font-size:25px;
+	color:white;
+	background-image:url("pictures/back.jpg"); 
+	text-align:left;
+	
+}
+legend
+{
+	border: 6px solid ;
+	border-color: Beige LightGray  GoldenRod DimGray;
+	color:white;
+	font-size:40px;
+	font-style:normal;
+	padding:14px;
+	border-radius:20px;
+	background-image: url(pictures/back.jpg);
+}
+ul
+{
+	list-style-type:none;
+	overflow:hidden;
+}
+li
+{
+	float:left;
+}
+.active{
+	background-color:skyblue;
+}
+li
+{
+	display:block;
+	text-align:center;
+	padding:15px;
+	margin:8px;
+	background-color:DarkSlateGray;
+	
+}
+ul , li 
+{
+	
+	border-radius:8px;
+}
+li:hover
+{
+	background-color:skyblue;
+}
+
+.right
+{
+	float:right;
+}
+table , tr , th ,td
+{
+	border-collapse:collapse;
+	padding:80px;
+	border-radius:20px;
+	
+}
+
+input
+{	
+	border: 2px solid LightSteelBlue  ;
+	padding:15px;
+	margin:10px;
+	border-radius:20px;
+	
+}
+#search
+{
+		margin-top:17px;
+		border: 0px;
+		height:20px;
+		width:250px;
+		text-align:center;
+		margin-left:20%;
+
+}
+
+.seven
+{
+	
+	width:450px;
+	
+}
+.eight
+{
+	
+	width:200px;
+	
+	
+}
+fieldset
+{
+	
+	margin:170px 400px 0px 400px;
+	border:7px solid ;
+	border-color: Beige LightGray  GoldenRod DimGray;
+	border-radius:20px;
+	background-image: url(pictures/back.jpg);
+	
+}
+.ok1
+{
+	background-color:#dbfcb4;
+	color:black;
+}
+.ok2
+{
+	color:white;
+	text-transform:none;
+	font-size:20px;
+	text-decoration:underline;
+}
+.ok4
+{
+	padding:5px 5px 5px 5px;
+}
+.movie
+{
+	margin:70px 0px 70px 0px;
+}
+button
+{
+	margin-top:10px;
+	
+}
